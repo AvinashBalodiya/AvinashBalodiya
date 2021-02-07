@@ -1,4 +1,10 @@
-### Hi there 👋
+###  Avinash Balodiya
+#### Full Stack Developer
+
+##### About Me
+I am a Full Stack Developer based in India. I love to break complex problems into Simple, maintainable pieces of code. When I am not coding, You will find me writing, singing or doing workout.
+
+Skills: REACT / VUE JS /  PHYTHON / NODE JS / JS / HTML / CSS
 
 <!--
 **AvinashBalodiya/AvinashBalodiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
