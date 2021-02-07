@@ -1,7 +1,7 @@
 ###  Avinash Balodiya
 #### Full Stack Developer
 
-##### About Me
+#### About Me
 I am a Full Stack Developer based in India. I love to break complex problems into Simple, maintainable pieces of code. When I am not coding, You will find me writing, singing or doing workout.
 
 ##### Skills and Experience: REACT / VUE JS / PHYTHON / PHP / Laravel / NODE JS / JS / HTML / CSS
